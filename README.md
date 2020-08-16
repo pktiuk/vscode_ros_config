@@ -1,5 +1,5 @@
 ## About
-This repository contains basic settings and recommendations for setting up workspace to make work with ROS easy. 
+This repository contains basic settings, instructions and recommendations for setting up workspace to make work with ROS easy. 
 
 
 ## Setup Workspace to work with vscode
