@@ -15,3 +15,8 @@ This repository contains basic settings, instructions and recommendations for se
 6. Using vscode commands (`Ctrl+Shift+P`) run (it ensures proper autocompletion support):
     - `ROS: Update C++ properties`
     - `ROS: Update Python Path`
+7. For better support of C++ completion generate `compile_commands.json`
+```
+catkin_make  -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+```
+8. Restart vscode, it should ask you about using newly generated `compile_commands.json`
