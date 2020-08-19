@@ -10,7 +10,7 @@ This repository contains basic settings, instructions and recommendations for se
     ```
 2. Open workspace using vscode
 3. Install recommended plugins
-4. (not required if you have installed all dependencies) Install ROS dependencies by pressing `Ctrl+Shift+P` and writing: `ROS: Install ROS Dependencies for this workspace`
+4. (not recommended if you have installed all dependencies) Install ROS dependencies by pressing `Ctrl+Shift+P` and writing: `ROS: Install ROS Dependencies for this workspace`
 5. (optional, but recommended) Build your workspace (in regular way by terminal or using Build Task)
 6. Using vscode commands (`Ctrl+Shift+P`) run (it ensures proper autocompletion support):
     - `ROS: Update C++ properties`
